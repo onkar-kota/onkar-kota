@@ -1,8 +1,10 @@
 <h1 align="center">Hi 👋, I'm Onkar Kota</h1>
 <h3 align="center">Data alchemist turning numbers into insights ✨ | Passionate about unraveling the secrets hidden in data 📊 | Transforming complexity into simplicity, one dataset at a time 🧩 | Embracing the power of algorithms to decode the world's mysteries 🌍</h3>
 
-
+<p align="center">
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Always+learning+new+things;Data+Science+Enthusiast;AI/ML+Enthusiast;Python+Programmer;)](https://git.io/typing-svg)
+</p>
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=onkar-kota&label=Profile%20views&color=0e75b6&style=flat" alt="onkar-kota" /> </p>
