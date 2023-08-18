@@ -35,7 +35,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=onkar-kota&" alt="onkar-kota" /></p>
 
 ## 🏆 Git profile Trophies
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=onkar-kota" alt="onkar-kota" /></a> </p
-                                                                                                                                                                                                                                                                                                                    
+                                                                                                                                
 [![trophy](https://github-profile-trophy.vercel.app/?username=onkar-kota&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)                                                                                                                                                                             
