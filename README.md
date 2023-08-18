@@ -32,11 +32,12 @@
 
 ## GitHub Stats 📈
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=onkar-kota&" alt="onkar-kota" /></p>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=onkar-kota&show_icons=true&locale=en&layout=compact" alt="onkar-kota" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=onkar-kota&show_icons=true&locale=en" alt="onkar-kota" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=onkar-kota&" alt="onkar-kota" /></p>
 
 ## 🏆 Git profile Trophies
                                                                                                                                 
