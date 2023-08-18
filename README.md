@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Always+learning+new+things;Data+Science+Enthusiast;AI/ML+Enthusiast;Python+Programmer;)](https://git.io/typing-svg)
 
-<p><img align="right" src="https://readme-typing-svg.demolab.com/?lines=Always+learning+new+things;Data+Science+Enthusiast;AI/ML+Enthusiast;Python+Programmer" alt="onkar-kota"></p>
+<p><img align="center" src="https://readme-typing-svg.demolab.com/?lines=Always+learning+new+things;Data+Science+Enthusiast;AI/ML+Enthusiast;Python+Programmer" alt="onkar-kota"></p>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=onkar-kota&label=Profile%20views&color=0e75b6&style=flat" alt="onkar-kota" /> </p>
