@@ -36,4 +36,6 @@
 
 ## 🏆 Git profile Trophies
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=onkar-kota" alt="onkar-kota" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=onkar-kota" alt="onkar-kota" /></a> </p
+                                                                                                                                                                                                                                                                                                                    
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=onkar-kota-ma&theme=dracula" alt="onkar-kota" /></a> </p                                                                                                                                                                              
