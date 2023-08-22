@@ -69,7 +69,13 @@
 ![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Tableau)
+
+<h3 align="left"> ⭐ Data Visualization Tools</h3>
+
+![Tableau](https://img.shields.io/badge/Tableau-%23FA0F00.svg?style=for-the-badge&logo=Tableau&logoColor=white)
+![PowerBI](https://img.shields.io/badge/PowerBI-%23F7931E.svg?style=for-the-badge&logo=PowerBI&logoColor=white)
+![D3](https://img.shields.io/badge/D3-%23FF6F00.svg?style=for-the-badge&logo=D3&logoColor=white)
+
 
 <h3 align="left"> ⭐ Machine Learning/Deep Learning</h3>
 
