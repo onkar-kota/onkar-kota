@@ -4,6 +4,11 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=100&center=true&vCenter=true&width=435&lines=Always+learning+new+things;Data+Science+Enthusiast;AI/ML+Enthusiast;Python+Programmer;Database+Developer)](https://git.io/typing-svg)
 
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=AI/ML+Enthusiast;Data+Science+Enthusiast;Developer;Python+Programmer;Database+Developer;Always%20learning%20new%20things&center=true&width=500&height=100"></a>
+  <br></br>
+<p align = "center">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=onkar-kota&label=Profile%20views&color=0e75b6&style=flat" alt="onkar-kota" /> </p>
 
