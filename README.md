@@ -121,7 +121,7 @@
 <br/><br/>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=THANK+YOU!;For+Visiting+My+Profile&&color=F70303&weight=600&center=true&width=500&height=100"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=THANK+YOU!;For+Visiting+My+Profile&color=F70303&weight=600&center=true&width=500&height=100"></a>
   <br></br>
 <p align = "center">
 
