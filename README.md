@@ -117,12 +117,3 @@
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-
-<br/><br/>
-
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=THANK+YOU!;For+Visiting+My+Profile&color=F70303&weight=600&center=true&width=500&height=100"></a>
-  <br></br>
-<p align = "center">
-
-<br/><br/>
