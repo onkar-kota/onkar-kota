@@ -39,7 +39,6 @@
 
 ## GitHub Stats 📈
 
-</p>
 <div align="center">
   <a>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=onkar-kota&theme=chartreuse-dark&hide_border=true" width="800">
@@ -52,14 +51,9 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=onkar-kota&count_private=true&theme=chartreuse-dark&show_icons=true&hide_border=true&text_color=fff&icon_color=03e8fc&title_color=03e8fc&card_width=3&line_height=40" />
   </a>
 </div>
-<br/><br/>
-<p align="center">
-    <a href="https://github.com/onkar-kota/">
-    <img align="center" src="https://activity-graph.herokuapp.com/graph?username=onkar-kota&theme=chartreuse-dark" />
-  </a>
-</p>
 
-<br></br>
+<br/><br/>
+
 
 ## 🏆 Git profile Trophies
                                                                                                                                 
