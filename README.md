@@ -11,6 +11,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=onkar-kota&label=Profile%20views&color=0e75b6&style=flat" alt="onkar-kota" /> </p>
 
+<h2>My Current Status</h2>
 
 - 🌱 I’m currently learning **LangChain and LLM models**
 
