@@ -1,3 +1,6 @@
+!(SVG)[https://github.com/onkar-kota/onkar-kota/blob/main/Red%20and%20Black%20Futuristic%20Gaming%20Channel%20YouTube%20Intro%20(2)-min.gif]
+
+
 <h1 align="center">Hi 👋, I'm Onkar Kota</h1>
 <h3 align="center">Data alchemist turning numbers into insights ✨ | Passionate about unraveling the secrets hidden in data 📊 | Transforming complexity into simplicity, one dataset at a time 🧩 | Embracing the power of algorithms to decode the world's mysteries 🌍</h3>
 
