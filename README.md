@@ -1,4 +1,4 @@
-!(SVG)[https://github.com/onkar-kota/onkar-kota/blob/main/Red%20and%20Black%20Futuristic%20Gaming%20Channel%20YouTube%20Intro%20(2)-min.gif]
+![Alt text](https://github.com/onkar-kota/onkar-kota/blob/main/Red%20and%20Black%20Futuristic%20Gaming%20Channel%20YouTube%20Intro%20(2)-min.gif)
 
 
 <h1 align="center">Hi 👋, I'm Onkar Kota</h1>
