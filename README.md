@@ -58,7 +58,7 @@
 <br/><br/>
 
 
-## 🏆 Git profile Trophies
+## 🏆 Git Profile Trophies
                                                                                                                                 
 [![trophy](https://github-profile-trophy.vercel.app/?username=onkar-kota&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)  
 
